@@ -3,6 +3,7 @@ LeetCode by Boss Liu
 
 ## 热力100题目
 * [11. 盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) [code](./Code/11.py)
+* [617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/) [code](./Code/617.py)
 
 ## 数组
 
