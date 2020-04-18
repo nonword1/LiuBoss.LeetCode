@@ -11,6 +11,7 @@ LeetCode by Boss Liu
 * [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) [code](./code/104.py)
 * [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/) [code](./code/136.py)
 * [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/) [code](./code/283.py)
+* [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) [code](./code/121.py)
 ## 数组
 
 * [349. 两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/) [code](./Code/349.py)
