@@ -20,7 +20,7 @@ LeetCode by Boss Liu
 ## 链表
 
 * [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) [code](./code/206.py)
-* [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) [code] (./code/21.py)
+* [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) [code](./code/21.py)
 
 ## 二叉树
 
