@@ -1,6 +1,6 @@
 # LiuBoss.LeetCode
 
-LeetCode by Boss Liu
+LeetCode by [Boss Liu](https://liuboss1992.github.io/)
 
 ## 热力100题目
 
