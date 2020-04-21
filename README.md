@@ -20,3 +20,9 @@ LeetCode by Boss Liu
 ## 链表
 
 * [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) [code](./code/206.py)
+* [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) [code] (./code/21.py)
+
+## 二叉树
+
+* [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/) [code](./code/226.py)
+* [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) [code](./code/104.py)
