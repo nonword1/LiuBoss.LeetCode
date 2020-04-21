@@ -22,6 +22,7 @@ LeetCode by [Boss Liu](https://liuboss1992.github.io/)
 * [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) [code](./code/206.py)
 * [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) [code](./code/21.py)
 * [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) [code](./code/83.py)
+* [234. 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/) [code](./code/234.py)
 
 ## 二叉树
 
