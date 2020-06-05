@@ -16,6 +16,7 @@ LeetCode by [Boss Liu](https://liuboss1992.github.io/)
 ## 数组
 
 * [349. 两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/) [code](./Code/349.py)
+* [面试题29. 顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/)[code](./Code/29.py)
 
 ## 链表
 
